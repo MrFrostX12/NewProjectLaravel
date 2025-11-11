@@ -80,7 +80,6 @@
         }
     </style>
 </head>
-<body>
 
 <h2>Form Biodata Mahasiswa</h2>
 
@@ -107,8 +106,5 @@
 
 <button type="submit">Kirim</button>
 </form>
-
-</body>
-</html>
 
 @endsection
