@@ -2,11 +2,7 @@
 
 @section('content')
 
-
-<!DOCTYPE html>
-<html lang="id">
 <head>
-    <meta charset="UTF-8" />
     <title>Form Biodata Mahasiswa</title>
     <style>
         body {

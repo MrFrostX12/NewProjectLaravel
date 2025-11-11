@@ -20,20 +20,20 @@
     <tr>
       <th scope="row">1</th>
       <td>Rafly</td>
-      <td>12</td>
+      <td>56</td>
       <td>IF</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>34</td>
+      <td>Syafa</td>
+      <td>36</td>
       <td>SI</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Kipli</td>
-      <td>56</td>
-      <td>TK</td>
+      <td>96</td>
+      <td>TE</td>
     </tr>
   </tbody>
 </table>
